@@ -10,6 +10,6 @@
 }
 @media screen and (max-width: 900px) {
     .container{
-        
+        margin: 0;
     }
 }
